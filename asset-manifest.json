@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Axios-App/static/css/main.4ba2d32a.chunk.css",
+    "main.js": "/Axios-App/static/js/main.79d2a8d4.chunk.js",
+    "main.js.map": "/Axios-App/static/js/main.79d2a8d4.chunk.js.map",
+    "runtime-main.js": "/Axios-App/static/js/runtime-main.33587d22.js",
+    "runtime-main.js.map": "/Axios-App/static/js/runtime-main.33587d22.js.map",
+    "static/css/2.4d98ed14.chunk.css": "/Axios-App/static/css/2.4d98ed14.chunk.css",
+    "static/js/2.983e6849.chunk.js": "/Axios-App/static/js/2.983e6849.chunk.js",
+    "static/js/2.983e6849.chunk.js.map": "/Axios-App/static/js/2.983e6849.chunk.js.map",
+    "index.html": "/Axios-App/index.html",
+    "static/css/2.4d98ed14.chunk.css.map": "/Axios-App/static/css/2.4d98ed14.chunk.css.map",
+    "static/css/main.4ba2d32a.chunk.css.map": "/Axios-App/static/css/main.4ba2d32a.chunk.css.map",
+    "static/js/2.983e6849.chunk.js.LICENSE.txt": "/Axios-App/static/js/2.983e6849.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33587d22.js",
+    "static/css/2.4d98ed14.chunk.css",
+    "static/js/2.983e6849.chunk.js",
+    "static/css/main.4ba2d32a.chunk.css",
+    "static/js/main.79d2a8d4.chunk.js"
+  ]
+}
